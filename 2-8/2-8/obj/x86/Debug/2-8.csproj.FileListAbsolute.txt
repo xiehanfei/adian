@@ -1,0 +1,4 @@
+D:\c#\2-8\2-8\bin\Debug\2-8.exe
+D:\c#\2-8\2-8\bin\Debug\2-8.pdb
+D:\c#\2-8\2-8\obj\x86\Debug\2-8.exe
+D:\c#\2-8\2-8\obj\x86\Debug\2-8.pdb
